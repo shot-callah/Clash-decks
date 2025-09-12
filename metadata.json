@@ -1,0 +1,5 @@
+{
+  "name": "Ezpz",
+  "description": "An application that analyzes your Clash Royale deck to either find a direct counter deck or provide an effective play strategy using the Gemini API.",
+  "requestFramePermissions": []
+}
